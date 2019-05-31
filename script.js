@@ -55,7 +55,7 @@ do {
         truthGuess = true; 
         break
    } else {
-       alert('This was the last puzzle. Just give up earthling.'); 
+       alert('This was the last puzzle. Give up earthling.'); 
    }
 } while ( ! truthGuess )
 
